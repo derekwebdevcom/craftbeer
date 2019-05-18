@@ -1,0 +1,310 @@
+html{
+	font-size: 18px;
+	scroll-behavior: smooth;
+	box-sizing: border-box !important;
+}
+
+body{
+	/*font-family: 'Oswald', sans-serif;*/
+	font-family: 'Josefin Sans', sans-serif;
+	width: 100%;
+
+
+
+}
+iframe{
+	margin: 0;
+}
+
+.googlemap {
+
+    top: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    height: 425px !important;
+    border: 0 !important;
+}
+.navbar a {
+	color: white;
+	font-size: 24px !important;
+
+
+}
+.navbar a:hover{
+	color: #D3981D !important;
+}
+
+h1, h2, h3, h4, h5, h6,{
+	font-family: 'Oswald', sans-serif;
+	font-weight: bold !important;
+
+
+}
+
+#headline{
+	margin-top: 30px !important;
+}
+img{
+	max-width: 100%;
+	height: auto;
+}
+hr{
+    border-top: 4px solid #D3981D;
+    width: 145px;
+}
+.hero{
+	background-image: url(images/hero1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: 100% 0px;
+
+}
+#brewerspace {
+    margin-right: 20px;
+	margin-bottom: 40px;
+}
+
+
+@media only screen and (max-width: 900px) {
+
+
+   #kinky {
+      font-size: 16px !important;
+   }
+
+   #beer-quote-text {
+      font-size: 22px !important;
+   }
+	 #sm-font{
+		 font-size: 14px !important
+	 }
+	 #brewerspace{
+		 height: 100px !important;
+		 width: 100px !important;
+	 }
+	 .googlemap {
+
+ 	    top: 0 !important;
+ 	    left: 0 !important;
+ 	    width: 100% !important;
+ 	    height: 300px !important;
+ 	    border: 0 !important;
+ 	}
+}
+@media only screen and (max-width: 700px) {
+	.top-arrow{
+				padding-right: 35px !important;
+	}
+	#kinky {
+
+		 padding-bottom: 75px !important;
+	}
+	#beer-quote-text {
+		padding-top: 20px !important;
+		padding-left: 20px !important;}
+
+	.googlemap {
+
+	    top: 0 !important;
+	    left: 0 !important;
+	    width: 100% !important;
+	    height: 200px !important;
+	    border: 0 !important;
+	}
+	#sm-font{
+		font-size: 14px !important;
+	}
+	h3{
+		font-size: 16px !important;
+
+	}
+
+}
+
+#header{
+	position: absolute;
+}
+#phone-1{
+		  margin-right: 20px !important;
+		}
+		#brewer{
+			margin-bottom: 0px !important;
+
+		}
+		#burgernav a{
+			font-size: 14px;
+		}
+	}
+.navbar .navbar-expand-md .navbar-light{
+	postion: fixed;
+}
+.navbar-light .navbar-toggler{
+	color: #fff;
+	border: none;
+
+}
+.nav-link{
+	text-align: left;
+
+}
+
+}
+.nav-bar .navbar-toggler:hover{
+	color: #D3981D;
+	text-align: right;
+}
+.nav-bar-light .navbar-toggler{
+	color: white;
+	border-color: white;
+}
+
+}
+
+.navbar-nav .nav-link{
+	color: #fff;
+	text-align: right;
+	padding-right: 15px;
+	postion: absolute;
+	height: 100vh;
+	width: 100vh;
+
+}
+.top-arrow{
+
+  position: fixed;
+	right: 0;
+	bottom: 0;*/
+}
+.hero-content{
+	padding: 165px 0px 70px;
+	position: relative;
+}
+
+.hero-content a{
+	postion: absolute;
+	display: inline-block;
+	top: 0px;
+}
+.viewtab{
+
+}
+
+.hero-content h1{
+	color: #FFF;
+	font-family: 'Josefin Sans', sans-serif;
+
+}
+.btn-warning {
+    color: #fff;
+    background-color: #D3981D !important;
+    border-color: #D3981D !important;
+    margin-bottom: 50px !important;
+
+}
+}
+.more-link{
+	color: #d3981d;
+	font-size: 24px;
+	display: inline-block;
+}
+
+#beerquote{
+	margin-top: 75px;
+	background-image: url(images/beerback.jpg);
+	background-size:cover;
+	background-repeat: no-repeat;
+	height: 300px;
+
+}
+#beer-quote-text{
+	float: right;
+	padding-right: 200px;
+	padding-top: 75px;
+	font-size: 40px;
+	color: white;
+	font-family: 'Oswald', sans-serif;
+}
+#kinky{
+	float: right;
+	margin-right: -275px;
+	padding-right: -500px;
+	padding-top: 150px;
+  	color: white;
+  	font-size: 28px;
+  	font-family: Arial, sans-serif
+
+}
+.viewmore-btn{
+    background:url(images/arrow.png) no-repeat;
+    cursor:pointer;
+    width: 23px;
+    height: 22px;
+    border: none;
+
+
+
+
+}
+#sm-font{
+	font-size: 18px;
+}
+
+}
+
+.beerbuttons{
+	width: auto;
+    height: auto;
+    align-items: center;
+
+}
+.viewtab{
+	text-align: center;
+
+}
+#brewer{
+	background-image: url(images/brewerback.png);
+	background-repeat: no-repeat;
+	background-size:cover;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	height: 750px;
+	margin-top: 100px;
+}
+
+#whiteicon{
+	color:white;
+	margin-bottom: -150px;
+}
+#whiteicon:hover{
+	color: #D3981D;
+}
+.text-white a {
+	display: inline-block;
+
+}
+.text-white a: hover{
+	margin-top: 10px;
+}
+
+#footer{
+	background-color: #373737 !important;
+}
+
+}
+#mail{
+	margin-top: 75px !important;
+	margin-bottom: 75px !important;
+	padding-left: 50px !important;
+}
+#phone{
+	margin-top: 75px !important;
+	margin-bottom: 75px !important;
+	padding-right: 50px !important;
+}
+
+.viewmore:hover{
+	color: #D3981D;
+	cursor: pointer;
+}
