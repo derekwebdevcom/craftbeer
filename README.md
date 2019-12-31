@@ -1,2 +1,1 @@
-# leapproject
 # craftbeer
